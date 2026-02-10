@@ -18,30 +18,30 @@ Source: Airbnb Open Data (London listings)
 **Tools:**
 
 Jupyter Notebook,Python
-Pandas – data cleaning & manipulation
-NumPy – numerical operations
-Matplotlib – data visualization
-Seaborn – statistical plots
+,Pandas – data cleaning & manipulation
+,NumPy – numerical operations
+,Matplotlib – data visualization
+,Seaborn – statistical plots
 
 
 **Data includes:**
 
 Listing price
-Room type
-Neighborhood
-Availability (days per year)
-Number of reviews
-Host and listing details
+,Room type
+,Neighborhood
+,Availability (days per year)
+,Number of reviews
+,,Host and listing details
 
 **Analysis Performed:**
 
 Data cleaning and preprocessing
-Handling missing and inconsistent values
-Price distribution analysis
-Room type comparison
-Neighborhood-wise price trends
-Availability vs price analysis
-Review count impact on pricing
+,Handling missing and inconsistent values
+,Price distribution analysis
+,Room type comparison
+,Neighborhood-wise price trends
+,Availability vs price analysis
+,Review count impact on pricing
 
 **Visualisations:**
 
